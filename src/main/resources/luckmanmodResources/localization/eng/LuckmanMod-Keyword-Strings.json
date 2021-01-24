@@ -1,0 +1,26 @@
+[
+  {
+    "PROPER_NAME": "Evil Eye",
+    "NAMES": [
+      "evil eye",
+      "evil_eye",
+      "evil eyes",
+      "evil_eyes"
+    ],
+    "DESCRIPTION": "Orb: When #yEvoked, stuns a random enemy and removes #b4 random Orbs."
+  },
+  {
+    "PROPER_NAME": "Luck",
+    "NAMES": [
+      "luck"
+    ],
+    "DESCRIPTION": "Luck increases the chance to get a card's Lucky effect."
+  },
+  {
+    "PROPER_NAME": "Locked",
+    "NAMES": [
+      "locked"
+    ],
+    "DESCRIPTION": "Cannot be played unless unlocked by #yThe #yKey."
+  }
+]

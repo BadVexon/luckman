@@ -1,0 +1,25 @@
+{
+  "luckmanmod:LuckyCoin": {
+    "NAME": "Lucky Coin",
+    "FLAVOR": "Stolen from another game.",
+    "DESCRIPTIONS": [
+      "At the start of turn #b2, draw #b1 card and gain [E] ."
+    ]
+  },
+  "luckmanmod:SuperLuckyCoin": {
+    "NAME": "Super Lucky Coin",
+    "FLAVOR": "Now this is ridiculous.",
+    "DESCRIPTIONS": [
+      "Replaces ",
+      ".[] NL You are always Lucky. You cannot play more than #b3 cards per turn."
+    ]
+  },
+  "luckmanmod:UnluckyCoin": {
+    "NAME": "Unlucky Coin",
+    "FLAVOR": "You're kidding me.",
+    "DESCRIPTIONS": [
+      "Replaces ",
+      ".[] NL Gain [E] at the start of your turn. NL You cannot be Lucky."
+    ]
+  }
+}

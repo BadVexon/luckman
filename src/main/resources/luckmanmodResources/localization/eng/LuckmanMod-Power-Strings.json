@@ -1,0 +1,97 @@
+{
+  "luckmanmod:LuckPower": {
+    "NAME": "Luck",
+    "DESCRIPTIONS": [
+      "Increase the chance to get the Lucky effect of a card by #b",
+      "Decrease the chance to get the Lucky effect of a card by #b",
+      " %."
+    ]
+  },
+  "luckmanmod:UnluckyPower": {
+    "NAME": "Unlucky",
+    "DESCRIPTIONS": [
+      "You cannot be Lucky this turn.",
+      "You cannot be Lucky for #b",
+      " turns."
+    ]
+  },
+  "luckmanmod:LoseLuckPower": {
+    "NAME": "Lose Luck",
+    "DESCRIPTIONS": [
+      "At the end of your turn, lose #b",
+      " #yLuck."
+    ]
+  },
+  "luckmanmod:BetAgainstPower": {
+    "NAME": "Bet Against",
+    "DESCRIPTIONS": [
+      "Whenever you don't get the Lucky effect, gain #b",
+      " #yBlock."
+    ]
+  },
+  "luckmanmod:RidiculousCrusadePower": {
+    "NAME": "Crusading",
+    "DESCRIPTIONS": [
+      "Whenever you get the Lucky effect, draw #b",
+      " card.",
+      " cards."
+    ]
+  },
+  "luckmanmod:ImpossiblePrecisionPower": {
+    "NAME": "Impossible Precision",
+    "DESCRIPTIONS": [
+      "Whenever you play a #yAttack, lose all your #yStrength."
+    ]
+  },
+  "luckmanmod:CoinflipPower": {
+    "NAME": "Flipping Out",
+    "DESCRIPTIONS": [
+      "ALL Lucky chances are #b",
+      " %."
+    ]
+  },
+  "luckmanmod:BloodPactPower": {
+    "NAME": "Blood Pact",
+    "DESCRIPTIONS": [
+      "Whenever you play a card, lose #b",
+      " HP and draw #b",
+      " card.",
+      " cards."
+    ]
+  },
+  "luckmanmod:TrueFormPower": {
+    "NAME": "True Form",
+    "DESCRIPTIONS": [
+      "ERROR ERROR ERROR"
+    ]
+  },
+  "luckmanmod:WhatDoTheyWantPower": {
+    "NAME": "What Do They Want?",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain #b",
+      " #yLuck."
+    ]
+  },
+  "luckmanmod:RidonkulousPower": {
+    "NAME": "Ridonkulous",
+    "DESCRIPTIONS": [
+      "At the start of your turn, Channel #b",
+      " #yEvil #yEye.",
+      " #yEvil #yEyes."
+    ]
+  },
+  "luckmanmod:RiggedPower": {
+    "NAME": "Rigged System",
+    "DESCRIPTIONS": [
+      "The next card you play is Lucky.",
+      "The next #b",
+      " cards you play are Lucky."
+    ]
+  },
+  "luckmanmod:FadingFormPower": {
+    "NAME": "Fading Form",
+    "DESCRIPTIONS": [
+      "ALL cards are Fleeting."
+    ]
+  }
+}

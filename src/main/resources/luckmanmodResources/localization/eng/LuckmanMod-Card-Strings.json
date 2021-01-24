@@ -1,0 +1,324 @@
+{
+  "luckmanmod:Strike": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage. NL !lLuck! % Lucky: Gain [E] ."
+  },
+  "luckmanmod:Defend": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block. NL !lLuck! % Lucky: Gain [E] ."
+  },
+  "luckmanmod:RouletteCrash": {
+    "NAME": "Roulette Crash",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL !lLuck! % Lucky: Deal !D! damage to ALL enemies."
+  },
+  "luckmanmod:Horrify": {
+    "NAME": "Horrify",
+    "DESCRIPTION": "Draw !M! cards. NL Channel 1 Evil_Eye. NL !lLuck! % Lucky: Apply 3 Poison to ALL enemies."
+  },
+  "luckmanmod:CasinoFlex": {
+    "NAME": "Casino Flex",
+    "DESCRIPTION": "Gain !M! Luck. NL At the end of your turn, lose !M! Luck. NL !lLuck! % Lucky: Gain 1 Artifact."
+  },
+  "luckmanmod:ChipGuard": {
+    "NAME": "Chip Guard",
+    "DESCRIPTION": "Gain !B! Block. NL !lLuck! % Lucky: Gain !B! Block."
+  },
+  "luckmanmod:HedgeBets": {
+    "NAME": "Hedge Bets",
+    "DESCRIPTION": "Deal !D! damage. NL !lLuck! % Lucky: Enemy loses !M! Strength this turn."
+  },
+  "luckmanmod:BlackjackBash": {
+    "NAME": "Blackjack Bash",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Vulnerable. NL !lLuck! % Lucky: Double the enemy's Vulnerable."
+  },
+  "luckmanmod:DiceToss": {
+    "NAME": "Dice Toss",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Gain !B! Block. NL !lLuck! % Lucky: Play this again."
+  },
+  "luckmanmod:TableClearer": {
+    "NAME": "Table Clearer",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak. NL !lLuck! % Lucky: Double the enemy's Weak."
+  },
+  "luckmanmod:CrushingDebt": {
+    "NAME": "Crushing Debt",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Draw !M! card. NL !lLuck! % Lucky: Gain !lM2! Temporary_HP.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage to ALL enemies. NL Draw !M! cards. NL !lLuck! % Lucky: Gain !lM2! Temporary_HP."
+  },
+  "luckmanmod:HopefulSmack": {
+    "NAME": "Hopeful Smack",
+    "DESCRIPTION": "Deal !D! damage. NL !lLuck! % Lucky: Stun the enemy for 1 turn."
+  },
+  "luckmanmod:DrunkenWhack": {
+    "NAME": "Drunken Whack",
+    "DESCRIPTION": "Deal !D! damage. NL Channel 1 Evil_Eye. NL !lLuck! % Lucky: Deal !D! damage."
+  },
+  "luckmanmod:GuardedBet": {
+    "NAME": "Guarded Bet",
+    "DESCRIPTION": "!lLuck! % Lucky: Gain !B! Block."
+  },
+  "luckmanmod:SettleDifference": {
+    "NAME": "Settle Difference",
+    "DESCRIPTION": "Gain !B! Block. NL Deal !D! damage."
+  },
+  "luckmanmod:ConfusingDefensive": {
+    "NAME": "Confusing Defensive",
+    "DESCRIPTION": "Gain !B! Block. NL Draw !M! card. NL Channel 1 Evil_Eye. NL !lLuck! % Lucky: Channel 2 Evil_Eyes."
+  },
+  "luckmanmod:PuzzlingInsight": {
+    "NAME": "Puzzling Insight",
+    "DESCRIPTION": "Draw !M! cards. NL Channel !M! Evil_Eyes. NL !lLuck! % Lucky: Draw 1 card. NL Channel 1 Evil_Eye."
+  },
+  "luckmanmod:Revel": {
+    "NAME": "Revel",
+    "DESCRIPTION": "Gain [E] . NL !lLuck! % Lucky: Gain [E] ."
+  },
+  "luckmanmod:LaunchGemstone": {
+    "NAME": "Launch Gemstone",
+    "DESCRIPTION": "Deal !D! damage. NL !lLuck! % Lucky: This card costs 0 until played."
+  },
+  "luckmanmod:ClocklessConfusion": {
+    "NAME": "Clockless Confusion",
+    "DESCRIPTION": "Apply !M! Weak to ALL enemies. NL Apply !M! Vulnerable to ALL enemies. NL !lLuck! % Lucky: Gain [E] ."
+  },
+  "luckmanmod:SlippedChip": {
+    "NAME": "Slipped Chip",
+    "DESCRIPTION": "Deal !D! damage. NL !lLuck! % Lucky: Gain [E] and draw 1 card."
+  },
+  "luckmanmod:AsylumDevotees": {
+    "NAME": "Asylum Devotees",
+    "DESCRIPTION": "!lLuck! % Lucky: Deal !D! damage. NL Gain !B! Block."
+  },
+  "luckmanmod:ConflictedConfusion": {
+    "NAME": "Conflicted Confusion",
+    "DESCRIPTION": "Gain !B! Block. NL Channel 1 Evil_Eye. NL !lLuck! % Lucky: Play this again."
+  },
+  "luckmanmod:BetAgainst": {
+    "NAME": "Bet Against",
+    "DESCRIPTION": "Whenever you don't get the Lucky effect, gain 1 Block. NL !lLuck! % Lucky: Gain 1 Intangible."
+  },
+  "luckmanmod:LuckyBoon": {
+    "NAME": "Lucky Boon",
+    "DESCRIPTION": "Gain !M! Luck. NL !lLuck! % Lucky: Gain !M! Luck."
+  },
+  "luckmanmod:RidiculousCrusade": {
+    "NAME": "Ridiculous Crusade",
+    "DESCRIPTION": "Whenever you get the Lucky effect, draw 2 cards. NL !lLuck! % Lucky: Gain 5 Temporary HP."
+  },
+  "luckmanmod:ImportantSundae": {
+    "NAME": "Important Sundae",
+    "DESCRIPTION": "At the start of your turn, draw 1 additional card. NL !lLuck! % Lucky: Play this again."
+  },
+  "luckmanmod:ImpossiblePrecision": {
+    "NAME": "Impossible Precision",
+    "DESCRIPTION": "At the start of your turn, gain !M! Strength. Whenever you play an Attack, lose all your Strength."
+  },
+  "luckmanmod:Shard": {
+    "NAME": "Shard",
+    "DESCRIPTION": "If the enemy doesn't intend to attack, gain !M! Luck. NL !lLuck! % Lucky: Stun the enemy for 1 turn."
+  },
+  "luckmanmod:CompoundedConfusion": {
+    "NAME": "Compounded Confusion",
+    "DESCRIPTION": "Play the top card of your draw pile. NL !lLuck! % Lucky: Play this again."
+  },
+  "luckmanmod:IncredibleCascade": {
+    "NAME": "Incredible Cascade",
+    "DESCRIPTION": "Channel 1 Evil Eye. !lLuck! % Lucky: Play this again."
+  },
+  "luckmanmod:ArrowShot": {
+    "NAME": "Spinal Shot",
+    "DESCRIPTION": "Deal !D! damage to a random enemy. NL !lLuck! % Lucky: Play this again."
+  },
+  "luckmanmod:PrecisionTactic": {
+    "NAME": "Precision Tactic",
+    "DESCRIPTION": "Gain !B! Block. NL Apply !M! Weak. NL !lLuck! % Lucky: Deal !D! damage."
+  },
+  "luckmanmod:TerrifyingTactic": {
+    "NAME": "Terrifying Tactic",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Vulnerable. NL !lLuck! % Lucky: Gain !B! Block."
+  },
+  "luckmanmod:EndlessCombo": {
+    "NAME": "Infinite Combo",
+    "DESCRIPTION": "Ethereal. NL Deal !D! damage. NL !lLuck! % Lucky: Play this again."
+  },
+  "luckmanmod:HatlessOne": {
+    "NAME": "Hatless One",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Luck. NL At the end of your turn, lose !M! Luck. NL !lLuck! % Lucky: Gain !lM2! Strength."
+  },
+  "luckmanmod:DuplicateTerrain": {
+    "NAME": "Duplicate Terrain",
+    "DESCRIPTION": "Replay the first card you played this combat. NL !lLuck! % Lucky: Play the top card of your draw pile.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Replay the first card you played this combat. NL !lLuck! % Lucky: Play the top card of your draw pile."
+  },
+  "luckmanmod:BlasphemousResilience": {
+    "NAME": "Blasphemous Resilience",
+    "DESCRIPTION": "Channel 1 Evil_Eye. NL Gain 10 Luck. NL After you play !M! card, lose 10 Luck. NL !lLuck! % Lucky: Gain 1 Artifact.",
+    "UPGRADE_DESCRIPTION": "Channel 1 Evil_Eye. NL Gain 10 Luck. NL After you play !M! cards, lose 10 Luck. NL !lLuck! % Lucky: Gain 1 Artifact."
+  },
+  "luckmanmod:BigBet": {
+    "NAME": "Big Bet",
+    "DESCRIPTION": "Gain 2 Artifact. NL !lLuck! % Lucky: Gain 2 Artifact.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Gain 2 Artifact. NL !lLuck! % Lucky: Gain 2 Artifact."
+  },
+  "luckmanmod:ConcerningCapsule": {
+    "NAME": "Concerning Capsule",
+    "DESCRIPTION": "Gain !B! Block. NL The top card of your draw pile costs 0 until played. NL !lLuck! % Lucky: Draw 1 card."
+  },
+  "luckmanmod:SickeningShanty": {
+    "NAME": "Sickening Shanty",
+    "DESCRIPTION": "Gain !B! Block. NL Deal !D! damage. NL !lLuck! % Lucky: Gain [E] [E] [E] ."
+  },
+  "luckmanmod:FoolproofGuard": {
+    "NAME": "Foolproof Guard",
+    "DESCRIPTION": "!lLuck! % Lucky: Stun the enemy for 1 turn.",
+    "UPGRADE_DESCRIPTION": "!lLuck! % Lucky: Stun ALL enemies for 1 turn."
+  },
+  "luckmanmod:Dodge": {
+    "NAME": "Dodge",
+    "DESCRIPTION": "!lLuck! % Lucky: Prevent the next time you would lose HP."
+  },
+  "luckmanmod:ForeverHall": {
+    "NAME": "Forever Hall",
+    "DESCRIPTION": "Gain !B! Block. NL Deal !D! damage to a random enemy. NL Play every Forever Hall in your discard pile."
+  },
+  "luckmanmod:CryingCookie": {
+    "NAME": "Crying Cookie",
+    "DESCRIPTION": "Channel !M! Evil_Eyes. NL !lLuck! % Lucky: Gain [E] [E] ."
+  },
+  "luckmanmod:SundaySadness": {
+    "NAME": "Sunday Sadness",
+    "DESCRIPTION": "Channel !M! Evil_Eye. NL Gain 3 Block for each of your Evil Eyes. NL !lLuck! % Lucky: Double your Block.",
+    "UPGRADE_DESCRIPTION": "Channel !M! Evil_Eyes. NL Gain 3 Block for each of your Evil Eyes. NL !lLuck! % Lucky: Double your Block."
+  },
+  "luckmanmod:DisconcertingGrin": {
+    "NAME": "Disconcerting Grin",
+    "DESCRIPTION": "Apply !M! Weak. NL Gain !M! Strength. NL At the end of this turn, lose !M! Strength. NL !lLuck! % Lucky: Play this again."
+  },
+  "luckmanmod:HorrifyingShuffle": {
+    "NAME": "Horrifying Shuffle",
+    "DESCRIPTION": "Apply !M! Vulnerable. NL Gain !M! Dexterity. NL At the end of this turn, lose !M! Dexterity. NL !lLuck! % Lucky: Play this again."
+  },
+  "luckmanmod:ThickeningFear": {
+    "NAME": "Thickening Fear",
+    "DESCRIPTION": "Gain !B! Block. NL Exhaust. NL !lLuck! % Lucky: Stun a random enemy for 2 turns."
+  },
+  "luckmanmod:InTheCards": {
+    "NAME": "In the Cards",
+    "DESCRIPTION": "Draw !M! cards. NL !lLuck! % Lucky: Gain [E] [E] ."
+  },
+  "luckmanmod:MomentaryRage": {
+    "NAME": "Momentary Rage",
+    "DESCRIPTION": "Deal !D! damage. NL Fleeting."
+  },
+  "luckmanmod:PhaseOut": {
+    "NAME": "Phase Out",
+    "DESCRIPTION": "Gain !M! Intangible. NL Fleeting."
+  },
+  "luckmanmod:KleinPotion": {
+    "NAME": "Klein Potion",
+    "DESCRIPTION": "Obtain !M! random Potion. NL Fleeting.",
+    "UPGRADE_DESCRIPTION": "Obtain !M! random Potions. NL Fleeting."
+  },
+  "luckmanmod:ContagiousPain": {
+    "NAME": "Contagious Pain",
+    "DESCRIPTION": "Take 5 damage. NL Deal !D! damage. NL !lLuck! % Lucky: Gain 5 Temporary HP."
+  },
+  "luckmanmod:DeathlyScreenplay": {
+    "NAME": "Deathly Screenplay",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL !lLuck! % Lucky: Play this again."
+  },
+  "luckmanmod:ImNotFoolish": {
+    "NAME": "I'm Not Foolish",
+    "DESCRIPTION": "Gain !M! Gold. NL Fleeting."
+  },
+  "luckmanmod:BasaltTrooper": {
+    "NAME": "Basalt Trooper",
+    "DESCRIPTION": "Gain !B! Block. NL Deal !D! damage. NL Permanently increase this card's damage by 1. NL Can be Upgraded any number of times. NL Exhaust."
+  },
+  "luckmanmod:FleetingFear": {
+    "NAME": "Fleeting Fear",
+    "DESCRIPTION": "Escape a non-Boss combat. NL Receive no rewards. NL Fleeting.",
+    "UPGRADE_DESCRIPTION": "Escape a non-Boss combat. NL Fleeting."
+  },
+  "luckmanmod:Helicopterrace": {
+    "NAME": "Helicopterrace",
+    "DESCRIPTION": "Add a random card into your hand. NL It costs 0 this turn. NL Exhaust. NL !lLuck! % Lucky: Play this again."
+  },
+  "luckmanmod:UnspeakableCommune": {
+    "NAME": "Unspeakable Commune",
+    "DESCRIPTION": "Apply 150,000 Weak. NL Apply 150,000 Vulnerable. NL Fleeting.",
+    "UPGRADE_DESCRIPTION": "Apply 150,000 Weak and 150,000 Vulnerable to ALL enemies. NL Fleeting."
+  },
+  "luckmanmod:TripsrersAdvocacy": {
+    "NAME": "Tripsrer's Advocacy",
+    "DESCRIPTION": "Play the top X cards of your draw pile. NL !lLuck! % Lucky: Gain [E] .",
+    "UPGRADE_DESCRIPTION": "Play the top X+1 cards of your draw pile. NL !lLuck! % Lucky: Gain [E] ."
+  },
+  "luckmanmod:ConsumeTheDiscovery": {
+    "NAME": "Consume the Discovery",
+    "DESCRIPTION": "Turn your Block into Temporary_HP. NL !lLuck! % Lucky: Gain 5 Block."
+  },
+  "luckmanmod:KAPOW": {
+    "NAME": "KAPOW",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL !lLuck! % \"Lucky\": Drop dead."
+  },
+  "luckmanmod:Jackpot": {
+    "NAME": "Jackpot",
+    "DESCRIPTION": "When you obtain this, gain 300 Gold. NL Fleeting."
+  },
+  "luckmanmod:FadingForm": {
+    "NAME": "Fading Form",
+    "DESCRIPTION": "ALL cards are Fleeting. NL Fleeting."
+  },
+  "luckmanmod:CoinflipForm": {
+    "NAME": "Coinflip Form",
+    "DESCRIPTION": "ALL Lucky chances are !M! %."
+  },
+  "luckmanmod:BloodPact": {
+    "NAME": "Blood Pact",
+    "DESCRIPTION": "Whenever you play a card, lose 1 HP and draw 1 card. NL !lLuck! % Lucky: Gain 100,000 Artifact."
+  },
+  "luckmanmod:TrueForm": {
+    "NAME": "True Form",
+    "DESCRIPTION": "Exhaust ALL your cards. NL Intend a move when played and at the start of your turn. NL !lLuck! % Lucky: ALL enemies drop dead."
+  },
+  "luckmanmod:RiggedSystem": {
+    "NAME": "Rigged System",
+    "DESCRIPTION": "The next card you play is Lucky. NL !lLuck! % Lucky: Affects 1 additional card.",
+    "UPGRADE_DESCRIPTION": "The next !M! cards you play are Lucky. NL !lLuck! % Lucky: Affects 1 additional card."
+  },
+  "luckmanmod:Inferiority": {
+    "NAME": "Inferiority",
+    "DESCRIPTION": "ALL enemies lose 3 Strength. NL !lLuck! % Lucky: Gain 3 Strength.",
+    "UPGRADE_DESCRIPTION" : "Innate. NL ALL enemies lose 3 Strength. NL !lLuck! % Lucky: Gain 3 Strength."
+  },
+  "luckmanmod:TheKey": {
+    "NAME": "The Key",
+    "DESCRIPTION": "Unlock a Locked card in your hand. NL Exhaust. NL !lLuck! % Lucky: Stun ALL enemies for 1 turn."
+  },
+  "luckmanmod:Impossibility": {
+    "NAME": "Impossible?",
+    "DESCRIPTION": "Locked. NL Deal NL !D! NL damage.",
+    "EXTENDED_DESCRIPTION": [
+      "LOCKED"
+    ]
+  },
+  "luckmanmod:WhatDoTheyWantFromMe": {
+    "NAME": "What do they want from me",
+    "DESCRIPTION": "At the start of your turn, gain 5 Luck. NL !lLuck! % Lucky: At the start of your turn, gain 5 Luck."
+  },
+  "luckmanmod:Ridonkulous": {
+    "NAME": "Ridonkulous",
+    "DESCRIPTION": "At the start of your turn, Channel 1 Evil_Eye. NL !lLuck! % Lucky: Play this again.",
+    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, Channel 1 Evil_Eye. NL !lLuck! % Lucky: Play this again."
+  },
+  "luckmanmod:AngerBeyondBelief": {
+    "NAME": "Anger Beyond Belief",
+    "DESCRIPTION": "Choose a card in your hand. NL Replace ALL cards in your draw pile with copies of that card. NL Exhaust. NL !lLuck! % Lucky: They cost 0 until played.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Choose a card in your hand. NL Replace ALL cards in your draw pile with copies of that card. NL Exhaust. NL !lLuck! % Lucky: They cost 0 until played."
+  },
+  "luckmanmod:GildedPetal": {
+    "NAME": "Gilded Petal",
+    "DESCRIPTION": "Ethereal. NL Card rewards from this combat are Rare cards from any class. NL Fleeting.",
+    "UPGRADE_DESCRIPTION": "Ethereal. NL Card rewards from this combat are Rare cards from any class. NL Exhaust."
+  }
+}
